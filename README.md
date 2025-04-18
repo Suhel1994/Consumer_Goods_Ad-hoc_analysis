@@ -16,7 +16,7 @@ To perform a data-driven exploration of business metrics based on specific stake
 
 ## 🗂️ Contents
 
-- 📁 [PowerPoint presentation containing](https://github.com/Suhel1994/Consumer_Goods_Ad-hoc_analysis/blob/main/Consumer_Goods_Ad-hoc_analysis.pdf)
+- 📁 [PowerPoint presentation](https://github.com/Suhel1994/Consumer_Goods_Ad-hoc_analysis/blob/main/Consumer_Goods_Ad-hoc_analysis.pdf)
 
   - Business questions
   - SQL queries
@@ -64,7 +64,7 @@ To perform a data-driven exploration of business metrics based on specific stake
 ## 🚀 How to Use
 
 1. Download or clone this repo.
-2. Open the [Consumer_Goods_Ad-hoc_analysis.pptx](https://github.com/Suhel1994/Consumer_Goods_Ad-hoc_analysis/blob/main/Consumer_Goods_Ad-hoc_analysis.pdf) file.
+2. Open the [Consumer_Goods_Ad-hoc_analysis](https://github.com/Suhel1994/Consumer_Goods_Ad-hoc_analysis/blob/main/Consumer_Goods_Ad-hoc_analysis.pdf) file.
 3. Navigate through each slide:
 
     - Read the business question.
